@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DroverInternal/apnea-privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Privacy Policy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Your privacy is important to us. It is Paideia Labs, Inc.'s policy not to capture, store, or share any of your information or activity data from using the Apnea Breathhold application.
 
-### Markdown
+We do not capture or store any of your personal information or app activity. All information is stored locally on your device, and you may delete it at any time within the application.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-```markdown
-Syntax highlighted code block
+Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-# Header 1
-## Header 2
-### Header 3
+This policy is effective as of 1 September 2020.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DroverInternal/apnea-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
